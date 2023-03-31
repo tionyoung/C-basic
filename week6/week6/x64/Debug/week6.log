@@ -1,0 +1,6 @@
+﻿  문자열의 정렬.c
+C:\Users\나영\source\repos\week6\week6\문자열의 정렬.c(18,8): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\나영\source\repos\week6\week6\문자열의 정렬.c(21,5): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  예제1 6주차.c
+  코드를 생성하고 있습니다...
+  week6.vcxproj -> C:\Users\나영\source\repos\week6\x64\Debug\week6.exe
